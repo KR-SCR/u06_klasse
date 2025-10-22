@@ -30,6 +30,6 @@ public class Autoverleih
       kunde2.name = "Raden";
       kunde2.stammkunde = true;
 
-      Darsteller.zeige(auto1, auto2, auto3, kunde1);
+      Darsteller.zeige(auto1, auto2, auto3, kunde1, kunde2);
    }
 }
